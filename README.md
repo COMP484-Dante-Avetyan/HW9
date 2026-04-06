@@ -5,6 +5,7 @@ https://github.com/COMP484-Dante-Avetyan/HW9
 
 # Link to url:
 https://comp484-dante-avetyan.github.io/HW9/
+# My GitHub Pages is launched, but it's been inconsistent on if it works or not.
 
 # Reflection
 The most easiest part was being given the html, and not having to do a style.css file.
